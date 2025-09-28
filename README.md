@@ -18,5 +18,6 @@ Prototipo de tienda online desarrollado con **React** y **Tailwind CSS**, simula
    ```bash
    git clone https://github.com/tuusuario/don-jacobo-ecommerce.git
 2.npm install
+
 3.npm start
 
