@@ -48,11 +48,11 @@ Si deseas probar el proyecto localmente, sigue estos pasos:
 
 # Clonar el repositorio
 ```bash
-git clone https://github.com/juandavidbarbadev/uts-website.git
+git clone https://github.com/juandavidbarbadev/Don-jacobo-prototype.git
 ```
 # Entrar al directorio
 ```bash
-cd uts-website
+cd Don-jacobo-prototype
 ```
 # Instalar dependencias
 ```
