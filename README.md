@@ -42,6 +42,16 @@ siguiendo buenas prácticas de desarrollo web moderno.
 
 ---
 
+## 📸 Vista previa
+
+> 🚀 **Deploy en Vercel:**
+>https://don-jacobo-prototype.vercel.app
+
+<img width="1840" height="891" alt="image" src="https://github.com/user-attachments/assets/5a7bcc7c-749c-45c7-b574-ed180f2844f9" />
+<img width="1783" height="970" alt="image" src="https://github.com/user-attachments/assets/3da0b19f-cf7c-479b-8bac-53fa62cefb7f" />
+
+
+
 ## ⚙️ Instalación y Ejecución  
 
 Si deseas probar el proyecto localmente, sigue estos pasos: 
